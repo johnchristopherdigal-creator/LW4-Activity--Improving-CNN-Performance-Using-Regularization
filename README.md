@@ -32,4 +32,4 @@
 D. Explainability (Grad-CAM Integration)
 12. How did Grad-CAM help in understanding model predictions? Grad-CAM helped visualize which parts of the image the CNN focused on during prediction.
 13. Did the improved model focus on more relevant regions? Provide evidence. Yes, the improved model focused more on the actual object instead of the background, showing better feature learning.
-14. Why is explainability important in real-world AI applications?Explainability is important because it helps people trust AI systems and understand how predictions are made.
+14. Why is explainability important in real-world AI applications? Explainability is important because it helps people trust AI systems and understand how predictions are made.

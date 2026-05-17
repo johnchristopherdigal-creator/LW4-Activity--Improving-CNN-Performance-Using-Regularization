@@ -16,10 +16,10 @@
 # GUIDE QUESTIONS (Student Explanation & Reflection)
 
 ## A. Model Evaluation Analysis
-1. What were the weakest-performing classes based on the confusion matrix?
-2. How did Precision, Recall, and F1-score vary across classes?
-3. What does a low recall indicate in your model?
-4. How does AUC score reflect model performance compared to accuracy?
+1. What were the weakest-performing classes based on the confusion matrix? The weakest-performing classes were the ones most often confused with other classes in the confusion matrix. This means the model had difficulty distinguishing their features.
+3. How did Precision, Recall, and F1-score vary across classes?
+4. What does a low recall indicate in your model?
+5. How does AUC score reflect model performance compared to accuracy?
 ## B. Model Improvement
 5. How did data augmentation affect validation accuracy?
 6. Why is Batch Normalization important in CNNs?

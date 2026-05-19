@@ -6,12 +6,12 @@
 
 | Metric               | Baseline Model | Improved Model |
 |----------------------|----------------|----------------|
-| Training Accuracy    |                |                |
-| Validation Accuracy  |                |                |
-| Precision            |                |                |
-| Recall               |                |                |
-| F1-score             |                |                |
-| AUC Score            |                |                |
+| Training Accuracy    |     0.943             |     0.850            |
+| Validation Accuracy  |     0.937           |      0.917          |
+| Precision            |     0.938           |      0.916          |
+| Recall               |     0.937           |      0.917          |
+| F1-score             |     0.937           |      0.909          |
+| AUC Score            |     0.990           |      0.971          |
 
 # GUIDE QUESTIONS (Student Explanation & Reflection)
 
